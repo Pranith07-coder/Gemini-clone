@@ -1,6 +1,6 @@
-# Remini Clone
+# Gemini Clone
 
-A web-based clone of the Remini app, built with modern web technologies. This project replicates the core functionality and UI of the popular image-enhancement app, allowing users to upload photos, enhance image quality, and apply various filters.
+A web-based clone of the Gemini app, built with modern web technologies. This project replicates the core functionality and UI of the popular image-enhancement app, allowing users to upload photos, enhance image quality, and apply various filters.
 
 ## Features
 
@@ -66,4 +66,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-This README covers the essentials to get the Remini Clone up and running, plus some key details for contributions and usage!
+This README covers the essentials to get the Gemini Clone up and running, plus some key details for contributions and usage!
