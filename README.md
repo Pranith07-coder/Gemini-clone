@@ -65,5 +65,3 @@ A web-based clone of the Gemini app, built with modern web technologies. This pr
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-This README covers the essentials to get the Gemini Clone up and running, plus some key details for contributions and usage!
